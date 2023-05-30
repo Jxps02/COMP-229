@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jxps02/COMP-229/issues"
   },
-  "homepage": "https://github.com/Jxps02/COMP-229#readme"
+  "homepage": "https://github.com/Jxps02/COMP-229#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
